@@ -15,9 +15,5 @@ This project is a part of **ProDigy Infotech Task-01**. It demonstrates a respon
 - CSS
 - JavaScript
 
-## 🌐 Live Demo
 
-(Insert your GitHub Pages link here once deployed)
-
-## 📂 Folder Structure
 
